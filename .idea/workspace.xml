@@ -2,33 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="739c1687-fea4-4590-a0ae-7e613b715d5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BestBuy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BestBuy/src/main/java/home/bestbuyHome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BestBuy/src/test/java/homeTest/bestbuyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BestBuy/target/classes/home/bestbuyHome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/Common/CommonApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/target/classes/Common/CommonApi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faceBook/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faceBook/src/main/java/home/createAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faceBook/src/main/java/home/facebookLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faceBook/src/test/java/homeTest/facebookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faceBook/target/classes/home/createAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/faceBook/target/test-classes/homeTest/facebookTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goal/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goal/src/main/java/home/GoalWebsite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goal/src/test/java/homeTest/goalTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goal/target/classes/META-INF/goal.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goal/target/classes/home/GoalWebsite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goal/target/test-classes/homeTest/goalTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -44,15 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/faceBook/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/faceBook/src/main/java/home/facebookLogin.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/home/bestbuyHome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -94,6 +60,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AutomationWithSelenium.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -202,181 +177,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="BestBuy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="faceBook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="faceBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="faceBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="faceBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="faceBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="faceBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="faceBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="faceBook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homeTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="goal" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="goal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="goal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="goal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="goal" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="home" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automation" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579843424319" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579962530723" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -547,7 +354,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1024" height="563" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27494907" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28004074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -561,7 +368,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32908705" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32271764" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -687,6 +494,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AutomationWithSelenium.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
         </state>
       </provider>
     </entry>
